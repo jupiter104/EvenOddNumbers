@@ -25,3 +25,5 @@ else:
     print("Invalid choice.")
 
 print(f"There are {numbering} {choice_full} numbers." )
+
+input("Press Enter to close the program.")
