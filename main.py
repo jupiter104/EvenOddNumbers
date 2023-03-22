@@ -1,6 +1,6 @@
-# This program lists odd or even numbers within
-# a range given by the user.
-# Author: Debashis B. Jupiter
+# This program lists all odd or even numbers 
+# within a range given by the user.
+# Author: Debashis B. Jupiter (March 2023)
 
 numbering = 0
 choice_full = ""
